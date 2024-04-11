@@ -1,4 +1,4 @@
-# calculator-
+# calculator
 Реализация калькулятора на языке C#
 Для работы запустите файл ~\WPFProject\bin\Debug\WPFProject.exe
 
